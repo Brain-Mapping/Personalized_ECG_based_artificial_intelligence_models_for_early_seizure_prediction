@@ -1,6 +1,6 @@
 Personalized ECG-based Artificial Intelligence Models for Early Seizure Prediction
 
-This repository contains code and models developed as part of a research project focused on early seizure prediction using ECG-derived features and artificial intelligence approaches.
+This repository contains codes developed as part of a research project focused on early seizure prediction using ECG-derived features and artificial intelligence approaches.
 
 The work explores both machine learning (ML) and deep learning (DL) frameworks for identifying preictal patterns and improving seizure prediction performance in a personalized setting.
 
