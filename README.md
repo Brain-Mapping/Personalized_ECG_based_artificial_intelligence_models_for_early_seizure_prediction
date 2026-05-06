@@ -6,13 +6,19 @@ The work explores both machine learning (ML) and deep learning (DL) frameworks f
 
 Repository Contents:
  1. Data_Computing_Codes: This includes the two Matlab Codes which are used to compute chunks from the source edf file.
-    The files included are: Time-based and peak-based signal processing scripts
+    
+    1.1 The files included are: Time-based and peak-based signal processing scripts
 
  2. Model Codes: This includes two subfolders.
- 2.1. Deep Learning Model Codes: This folder contains Raw signal chunks image generation code and for the same corresponding chunks Scalogram image generation code.
- 2.2 Machine Learning Model Codes: This Folder Contains the Training and evaluation pipelines for classical ML models
+    
+     2.1. Deep Learning Model Codes: This folder contains Raw signal chunks image generation code and for the same corresponding chunks Scalogram image generation code.
+ 
+     2.2 Machine Learning Model Codes: This Folder Contains the Training and evaluation pipelines for classical ML models
 
 Methods Overview
-ECG signal preprocessing and segmentation
-Feature computation (including HRV-based features)
-Preictal vs interictal classification
+
+1. ECG signal preprocessing and segmentation
+
+2. Feature computation
+
+3. Preictal vs interictal classification
