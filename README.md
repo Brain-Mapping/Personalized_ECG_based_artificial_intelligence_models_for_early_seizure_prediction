@@ -1,4 +1,15 @@
-Personalized ECG-based Artificial Intelligence Models for Early Seizure Prediction
+
+Personalized ECG-based artificial intelligence models for early seizure prediction
+
+Harilal Parasuram 1,2,*, +, Mridul Sharma 1, +, Gowtham S 1, +, Harisankar R Menon1 ,Siby Gopinath 1,2, Akshaya Raman 1, Sonu Ravindran 1, Arjun Ramakrishnan3, Garima 3, Priya Bhasimon 1 and Anand Kumar 1,2
+1Amrita Advanced Centre for Epilepsy (AACE), Amrita Institute of Medical Sciences, Amrita Vishwa Vidyapeetham, Kochi, Kerala, India.
+2Department of Neurology, Amrita Institute of Medical Sciences, Amrita Vishwa Vidyapeetham, Kochi, Kerala, India.
+3Department of Biological Sciences and Bioengineering, Indian Institute of Technology, Kanpur, Uttar Pradesh, India
+
++ authors contributed equally
+* Corresponding author: 
+Dr. Harilal Parasuram, Amrita Advanced Centre for Epilepsy, Amrita Institute of Medical Science, Amrita Vishwa Vidyapeetham, Kochi, Kerala 682041, India. Email: harilal.navami@gmail.com
+
 
 This repository contains codes developed as part of a research study focused on early seizure prediction using ECG-derived features and artificial intelligence approaches.
 
